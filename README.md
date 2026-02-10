@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Htin Linn Aung 👋
+### 📊 Data Analyst | Turning Data into Actionable Insights
 
-<!--
-**htinlinaung793-spec/htinlinaung793-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Analyst dedicated to uncovering trends and solving complex problems through data.
 
-Here are some ideas to get you started:
+I specialize in cleaning messy datasets, performing exploratory data analysis (EDA), and building interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use data analysis tools like 
+-Microsoft Excel
+-Power BI,Tableau
+-SQL
+_R
+
+
+- 🔍 **Focusing on:** Exploratory Data Analysis, Statistical Modeling, and Data Visualization.
+- 🛠️ **Current Project:** Analyzing data of online movie rental shop to help the company explore meaningful data & gain insights to make decisions
+- 📫 **Connect with me:** linkedin.com/in/htin-linn-aung-23958a228
+
+---
