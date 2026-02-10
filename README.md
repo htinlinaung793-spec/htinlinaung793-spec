@@ -5,11 +5,7 @@ I am a passionate Data Analyst dedicated to uncovering trends and solving comple
 
 I specialize in cleaning messy datasets, performing exploratory data analysis (EDA), and building interactive dashboards.
 
-I use data analysis tools like 
--Microsoft Excel
--Power BI,Tableau
--SQL
-_R
+I use data analysis tools like Microsoft Excel, Power BI, Tableau, SQL, R
 
 
 - 🔍 **Focusing on:** Exploratory Data Analysis, Statistical Modeling, and Data Visualization.
