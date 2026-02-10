@@ -7,6 +7,12 @@ I specialize in cleaning messy datasets, performing exploratory data analysis (E
 
 I use data analysis tools like Microsoft Excel, Power BI, Tableau, SQL, R
 
+### 🛠 Tech Stack & Tools
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 - 🔍 **Focusing on:** Exploratory Data Analysis, Statistical Modeling, and Data Visualization.
 - 🛠️ **Current Project:** Analyzing data of online movie rental shop to help the company explore meaningful data & gain insights to make decisions
