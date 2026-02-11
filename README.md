@@ -24,8 +24,7 @@ I specialize in cleaning messy datasets, performing exploratory data analysis (E
 
 ### 📈 GitHub Activities
 
-![Htin Linn Aung's Stats](https://github-readme-stats.vercel.app/api?username=HtinLinnAung&show_icons=true&theme=nord)
+![Htin Linn Aung's Stats]([https://github-readme-stats.vercel.app/api?username=HtinLinnAung&show_icons=true&theme=nord](https://github.com/htinlinaung793-spec/SQL-statements))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtinLinnAung&layout=compact&theme=nord)
 
 ---
