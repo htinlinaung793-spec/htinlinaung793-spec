@@ -24,7 +24,7 @@ I specialize in cleaning messy datasets, performing exploratory data analysis (E
 
 ### 📈 GitHub Activities
 
-![DVD Rental Database Analysis]([[https://github-readme-stats.vercel.app/api?username=HtinLinnAung&show_icons=true&theme=nord](https://github.com/htinlinaung793-spec/SQL-statements)](https://github.com/htinlinaung793-spec/online_movie_rental_shop.sql))
+![DVD Rental Database Analysis](https://github.com/htinlinaung793-spec/online_movie_rental_shop.sql)
 
 
 ---
